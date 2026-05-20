@@ -1,5 +1,7 @@
-<!-- Header Banner using Capsule Render -->
-![8bit-Header](https://capsule-render.vercel.app/api?type=rect&color=000000&text=HELDER%20%20LAGRISOLA&fontColor=00ff00&fontSize=50&fontAlignY=50&font=Press%20Start%202P&animation=twinkling)
+
+<!-- 🕹️ 8-Bit CRT Arcade Header Banner -->
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0d1117&text=%3E_HELDER%20LAGRISOLA%20%20%20&fontColor=39ff14&fontSize=40&fontAlignY=50&font=Press%20Start%202P&animation=twinkling)
+
 # Hey there! I'm Helder 👋
 
 I am a **21-year-old developer** who absolutely loves **building things** from scratch. Right now, I'm fully focused on diving deep into the world of **Mobile App Development**, exploring both hybrid cross-platform solutions and native iOS ecosystems.
@@ -15,27 +17,31 @@ I am a **21-year-old developer** who absolutely loves **building things** from s
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🎒 Inventory Slots (Skills)
 
 #### 💻 Web Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) *(Intermediate)*
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) *(Intermediate)*
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) *(Intermediate)*
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) *(Basic)*
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) *(Basic)*
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) *(Intermediate)*  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) *(Intermediate)*  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) *(Intermediate)*  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) *(Basic)*  
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) *(Basic)*  
 
 #### 📱 Mobile App Dev (Actively Learning)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Capacitor](https://img.shields.io/badge/Capacitor-%231182HI.svg?style=for-the-badge&logo=capacitor&logoColor=white&color=1192b4)  
-![Swift](https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-007ACC?style=for-the-badge&logo=swift&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) ![Capacitor](https://img.shields.io/badge/Capacitor-1192B4?style=flat-square&logo=capacitor&logoColor=white)  
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-007ACC?style=flat-square&logo=swift&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Performance Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME-HERE&show_icons=true&theme=tokyonight&hide_border=true" alt="Helder's GitHub Stats" />
+<p align="center">
+  <!-- 31-Day Contribution Trend Line Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LagrisolaHelder&theme=tokyonight&hide_border=true" width="100%" alt="Helder's Activity Graph" />
 </p>
 
+ 
 ---
 
-📬 **How to reach me:** Feel free to drop a line if you want to talk about app development, React, Swift, or just building cool things!
+ 
+
+ 
