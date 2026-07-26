@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=36&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&repeat=false&width=900&height=100&lines=HELDER+LAGRISOLA)](https://git.io/typing-svg)
+[![8 Bit fonts](https://see.fontimg.com/api/rf5/LVB75/NzMyOTFhZDhkNWY5NGNkYTg0ZDBmOTQ2OGQ0ZTk0NWYudHRm/SGVsZGVyIExhZ3Jpb2xh/ithaca.png?r=fs&h=130&w=2000&fg=000000&bg=FFFFFF&tb=1&s=65)](https://www.fontspace.com/category/8-bit)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=32&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&repeat=false&width=900&height=90&lines=SON+OF+THE+CARABAO+AND+CROCODILE+ISLAND)](https://git.io/typing-svg)
 ### 🎒 INVENTORY (21yo Builder)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
